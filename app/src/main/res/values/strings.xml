@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeLink</string>
+    <string name="app_tagline">AI Based Blood Donor Matching and Emergency Support System</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_register">Register Donor</string>
+    <string name="nav_matching">AI Match</string>
+    <string name="nav_emergency">Emergency</string>
+    <string name="nav_notifications">Donor Inbox</string>
+    <string name="emergency_banner_title">24/7 Emergency Blood Dispatch</string>
+    <string name="register_donor_title">Donor Registration</string>
+    <string name="ai_matching_title">AI Blood Donor Matching</string>
+    <string name="donor_lookup_title">Donor Notification Lookup</string>
+    <string name="privacy_notice">Verified Real-Donor Registry • Duplicate Phone Protection • Privacy Masked</string>
+</resources>
